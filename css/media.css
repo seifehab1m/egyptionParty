@@ -1,0 +1,21 @@
+@media all and (max-height:499px) {
+
+    .sideNav {
+        overflow: auto;
+    }
+
+}
+
+@media all and (max-width:580px) {
+
+  button{
+    color: white !important;
+  }
+
+}
+
+@media all and (max-width:767px) and (min-width: 500px) {
+    
+}
+
+@media all and (max-width:979px) and (min-width:768px) {}
